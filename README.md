@@ -3,6 +3,8 @@
 
 This repository contains the implementation of an adaptive control algorithm for DC-DC converters using a **DSP LaunchPad**. The project includes Simulink models and MATLAB scripts required for simulation and deployment.
 
+![image](https://github.com/user-attachments/assets/74b967c3-2300-4f00-8cd5-2a3868625ffa)
+
 ## Getting Started
 
 ### Prerequisites
@@ -43,7 +45,6 @@ run control/parameters.m
  ├── control.slx   # Simulink model
  ├── parameters.m  # System parameters and initialization script
 
-![image](https://github.com/user-attachments/assets/74b967c3-2300-4f00-8cd5-2a3868625ffa)
 
 
 
