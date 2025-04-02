@@ -33,17 +33,19 @@ Before running the simulation, ensure you have the following installed:
 run control/parameters.m
  ```
 
-4. **Open and run the Simulink model**
+## Open and Run the Simulink Model
 
-Open control/control.slx in Simulink.
+1. Open **control/control.slx** in Simulink.
+2. Ensure the correct hardware target is selected (your DSP LaunchPad model).
+3. Run the simulation or deploy it to the DSP.
 
--Ensure the correct hardware target is selected (your DSP LaunchPad model).
+# Project Structure
 
--Run the simulation or deploy it to the DSP.
-
+```bash
 📂 control
  ├── control.slx   # Simulink model
  ├── parameters.m  # System parameters and initialization script
+
 
 
 
