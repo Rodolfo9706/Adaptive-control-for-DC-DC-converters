@@ -22,3 +22,27 @@ Before running the simulation, ensure you have the following installed:
    git clone https://github.com/Rodolfo9706/Adaptive-control-for-DC-DC-converters.git
    cd Adaptive-control-for-DC-DC-converters
 
+3. **Load system parameters**
+
+-Open MATLAB and navigate to the project folder.
+-Run the initialization script:
+   ```sh
+run control/parameters.m
+ ```
+
+4. **Open and run the Simulink model**
+
+Open control/control.slx in Simulink.
+
+-Ensure the correct hardware target is selected (your DSP LaunchPad model).
+
+-Run the simulation or deploy it to the DSP.
+
+📂 control
+ ├── control.slx   # Simulink model
+ ├── parameters.m  # System parameters and initialization script
+
+
+
+
+
