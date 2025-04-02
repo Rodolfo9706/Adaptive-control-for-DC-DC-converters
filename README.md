@@ -1,6 +1,9 @@
 
 # Adaptive Control for DC-DC Converters
 
+![image](https://github.com/user-attachments/assets/74b967c3-2300-4f00-8cd5-2a3868625ffa)
+
+
 This repository contains the implementation of an adaptive control algorithm for DC-DC converters using a **DSP LaunchPad**. The project includes Simulink models and MATLAB scripts required for simulation and deployment.
 
 ## Getting Started
